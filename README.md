@@ -11,7 +11,7 @@ My solutions to IUST's Security of Computer Systems assignments, Spring 2022, [D
 	- Poly-gram substitution cipher
 	- Homo-phonic substitution cipher
 	- Poly-alphabetic substitution cipher
-- P1
+- Project 1
 	- Ciphertext Only Attack methods
 	- Brute-Force
 	- Caesar cipher
@@ -20,3 +20,7 @@ My solutions to IUST's Security of Computer Systems assignments, Spring 2022, [D
 	- Frequency analysis
 	- Genetic algorithms
 	- Decrypt an encrypted text with Python
+- Project 2
+	- [DNS spoofing with NetfilterQueue and iptables](https://github.com/ali-sedaghi/DNS-Spoofing)
+- Project 3
+	- [Denial of Service (DOS) python program via UDP and TCP floods](https://github.com/ali-sedaghi/DOS-Attacker)
